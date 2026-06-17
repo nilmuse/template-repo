@@ -165,13 +165,6 @@ Customizable CSS variables:
 
 ---
 
-## Contributing
-
-Build, packaging and release rules are shared across the portfolio — see
-[`STANDARDS.md`](./STANDARDS.md). Don't duplicate them here.
-
----
-
 ## License
 
 MIT
