@@ -4,16 +4,16 @@
   "description": "One-sentence description of what the package does.",
   "type": "module",
   "private": true,
-  "author": "ux-ui.pro",
+  "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ux-ui-pro/package-name.git"
+    "url": "git+https://github.com/nilmuse/package-name.git"
   },
   "bugs": {
-    "url": "https://github.com/ux-ui-pro/package-name/issues"
+    "url": "https://github.com/nilmuse/package-name/issues"
   },
-  "homepage": "https://github.com/ux-ui-pro/package-name",
+  "homepage": "https://github.com/nilmuse/package-name",
   "sideEffects": false,
   "packageManager": "npm@10.9.3",
   "engines": {
