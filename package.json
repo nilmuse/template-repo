@@ -4,16 +4,16 @@
   "description": "One-sentence description of what the package does.",
   "type": "module",
   "private": true,
-  "author": "ux-ui.pro",
+  "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ux-ui-pro/package-name.git"
+    "url": "git+https://github.com/nilmuse/package-name.git"
   },
   "bugs": {
-    "url": "https://github.com/ux-ui-pro/package-name/issues"
+    "url": "https://github.com/nilmuse/package-name/issues"
   },
-  "homepage": "https://github.com/ux-ui-pro/package-name",
+  "homepage": "https://github.com/nilmuse/package-name",
   "sideEffects": false,
   "packageManager": "npm@10.9.3",
   "engines": {
@@ -59,9 +59,9 @@
     "@arethetypeswrong/cli": "^0.18.3",
     "@biomejs/biome": "2.4.16",
     "@types/node": "25.9.2",
-    "@ux-ui/biome-config": "^0.1.0",
-    "@ux-ui/tsconfig-base": "^0.1.0",
-    "@ux-ui/tsdown-config": "^0.1.0",
+    "@nilmuse/biome-config": "^0.1.3",
+    "@nilmuse/tsconfig-base": "^0.1.3",
+    "@nilmuse/tsdown-config": "^0.1.3",
     "publint": "^0.3.21",
     "rimraf": "6.1.3",
     "tsdown": "0.22.3",
